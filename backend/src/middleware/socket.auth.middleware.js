@@ -41,4 +41,3 @@ export const socketAuthMiddleware = async (socket, next) => {
     next(new Error("Unauthorized - Authentication failed"));
   }
 };
-
