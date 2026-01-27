@@ -1,4 +1,3 @@
-
 import { MessageCircleIcon } from "lucide-react";
 
 const NoConversationPlaceholder = () => {
@@ -14,4 +13,5 @@ const NoConversationPlaceholder = () => {
     </div>
   );
 };
+
 export default NoConversationPlaceholder;
