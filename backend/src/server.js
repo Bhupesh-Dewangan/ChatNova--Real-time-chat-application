@@ -24,6 +24,10 @@ app.use("/api/messages", messageRoutes);
 // if (ENV.NODE_ENV === "production") {
 //   app.use(express.static(path.join(__dirname, "../frontend/dist")));
 
+app.get("/", (req, res) => {
+  res.send("ChatNova backend running 🚀");
+});
+
   app.get("*", (_, res) => {
     res.sendFile(path.join(__dirname, "../frontend", "dist", "index.html"));
   });
