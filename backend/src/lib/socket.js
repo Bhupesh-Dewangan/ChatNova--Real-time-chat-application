@@ -8,8 +8,9 @@ const app = express();
 const server = http.createServer(app);
 
 const io = new Server(server, {
+  path: "/socket.io", // 👈 EXPLICIT
   cors: {
-    origin: [ENV.CLIENT_URL],
+    origin: ENV.CLIENT_URL,
     credentials: true,
   },
 });
