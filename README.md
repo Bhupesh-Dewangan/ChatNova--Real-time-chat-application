@@ -4,6 +4,21 @@ ChatNova is a modern, real-time chat application built with the MERN stack and p
 
 Designed to reflect real-world production architecture and best practices.
 
+## 📸 Preview
+<img width="1920" height="871" alt="login Page" src="https://github.com/user-attachments/assets/e5d02c05-942b-4bd8-b0cd-bc8b6b0a1007" />
+
+---
+<img width="1920" height="870" alt="Home page" src="https://github.com/user-attachments/assets/25f5527f-bb84-44b0-880f-6ccd4c53ecf8" />
+
+---
+<img width="1920" height="871" alt="sign up page" src="https://github.com/user-attachments/assets/0ad30929-7f4e-4b78-8b08-f10975802840" />
+
+---
+<img width="1920" height="870" alt="Chat page" src="https://github.com/user-attachments/assets/0ae95bde-23cc-4c57-88d5-4466e4724603" />
+
+---
+
+
 ## 🚀 Features
 ### 🔐 Authentication
 
